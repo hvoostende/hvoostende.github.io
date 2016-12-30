@@ -16,6 +16,6 @@ layout: default
   <div class="blog-post spacing">
     <p class="summary">{{ page.category }}<span class="date">{{ page.date | date: '%B %d, %Y' }}</span></p>
     {{ content }}
-    <div class="fb-comments" data-href="http://hanvanoostende.com/hi%20everyone,/2016/12/28/first-post.html" data-numposts="5"></div>
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
   </div>
 </div>
