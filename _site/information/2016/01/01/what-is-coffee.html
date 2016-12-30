@@ -1,10 +1,4 @@
 <!doctype html>
-<script src="https://cdn.firebase.com/js/client/2.2.1/firebase.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.0/moment.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.1.0/js/md5.js"></script>
-<script src="/js/blog.js"></script>
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -26,6 +20,15 @@
       </div>
     </header>
     <div class="content">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v2.8&appId=243518385694710";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class="container">
   <h2 class="spacing">What is Coffee?</h2>
 
@@ -35,6 +38,7 @@
 
 <p>Source / Read more <a href="https://en.wikipedia.org/wiki/Coffee">Wikipedia</a>.</p>
 
+    <div class="fb-comments" data-href="http://hanvanoostende.com/hi%20everyone,/2016/12/28/first-post.html" data-numposts="5"></div>
   </div>
 </div>
 
