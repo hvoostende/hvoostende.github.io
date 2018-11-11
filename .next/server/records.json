@@ -1,0 +1,81 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"styled-components\"": 1,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/components/theme.js": 2,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/components/Code.js": 3,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/components/Hanvanoostende.js": 4,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/components/Layout.js": 5,
+      "external \"next/link\"": 6,
+      "multi ./pages/about.js": 7,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 8,
+      "multi ./pages/components/Code.js": 9,
+      "multi ./pages/components/Hanvanoostende.js": 10,
+      "multi ./pages/components/Layout.js": 11,
+      "multi ./pages/components/theme.js": 12,
+      "multi ./pages/index.js": 13,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 14,
+      "multi node_modules/next/dist/pages/_app.js": 15,
+      "node_modules/next/dist/pages/_app.js": 16,
+      "external \"next/app\"": 17,
+      "multi node_modules/next/dist/pages/_error.js": 18,
+      "node_modules/next/dist/pages/_error.js": 19,
+      "external \"next/error\"": 20,
+      "multi node_modules/next/dist/pages/_document.js": 21,
+      "node_modules/next/dist/pages/_document.js": 22,
+      "external \"next/document\"": 23
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/about.js": 0,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/components/Code.js": 1,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/components/Hanvanoostende.js": 2,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/components/Layout.js": 3,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/components/theme.js": 4,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/index.js": 5,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/_app.js": 6,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/_error.js": 7,
+      "static/aiCECUv0Q2H9~tkMPeN3T/pages/_document.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/about": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/components/Code": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/components/Hanvanoostende": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/components/Layout": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/components/theme": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ],
+    "/": [
+      "static/runtime/webpack-6530062b14e55a45eb85.js",
+      "static/chunks/commons.d4b19e0040e239212456.js",
+      "static/runtime/main-bc610a95e13da557bb71.js"
+    ]
+  }
+}
