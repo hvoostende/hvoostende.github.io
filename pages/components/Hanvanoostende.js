@@ -68,10 +68,10 @@ export default () => (
         </Text>
         <Image>
           <img
-            src="/static/images/programmer.svg"
+            src="../../static/images/programmer.svg"
             width="400"
             height="380"
-            alt="icon of cafienne"
+            alt="programmer"
           />
         </Image>
       </FlexWrapper>
